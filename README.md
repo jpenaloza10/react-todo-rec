@@ -1,3 +1,0 @@
-# React Todo App.
-
-
